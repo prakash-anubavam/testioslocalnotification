@@ -1,0 +1,16 @@
+eclipse.preferences.version=1
+provisioning_profiles/development/8018BEC8-7B69-4E8B-9D97-A67780EB6246/appid=com.webmobdev.*
+provisioning_profiles/development/8018BEC8-7B69-4E8B-9D97-A67780EB6246/name=GeneralDev
+provisioning_profiles/development/8018BEC8-7B69-4E8B-9D97-A67780EB6246/uuid=8018BEC8-7B69-4E8B-9D97-A67780EB6246
+provisioning_profiles/development/A1BE51F3-E4BA-419D-9929-0E6189D109BD/appid=com.anubavam.*
+provisioning_profiles/development/A1BE51F3-E4BA-419D-9929-0E6189D109BD/name=Anubavam ALL APPs
+provisioning_profiles/development/A1BE51F3-E4BA-419D-9929-0E6189D109BD/uuid=A1BE51F3-E4BA-419D-9929-0E6189D109BD
+provisioning_profiles/development/A4CEF6C8-889C-4F27-8AD0-93E569B640CE/appid=*
+provisioning_profiles/development/A4CEF6C8-889C-4F27-8AD0-93E569B640CE/name=Development Team Provisioning Profile
+provisioning_profiles/development/A4CEF6C8-889C-4F27-8AD0-93E569B640CE/uuid=A4CEF6C8-889C-4F27-8AD0-93E569B640CE
+provisioning_profiles/development/AE9BFB53-6EF6-413B-8BA6-C5594BCE2EE1/appid=com.webmobdev.slingvite
+provisioning_profiles/development/AE9BFB53-6EF6-413B-8BA6-C5594BCE2EE1/name=Slingvite Dev
+provisioning_profiles/development/AE9BFB53-6EF6-413B-8BA6-C5594BCE2EE1/uuid=AE9BFB53-6EF6-413B-8BA6-C5594BCE2EE1
+provisioning_profiles/development/B51043A6-E288-4625-BE78-952AA70B0161/appid=com.anubavam.shukrandev
+provisioning_profiles/development/B51043A6-E288-4625-BE78-952AA70B0161/name=Shukran Dev
+provisioning_profiles/development/B51043A6-E288-4625-BE78-952AA70B0161/uuid=B51043A6-E288-4625-BE78-952AA70B0161
